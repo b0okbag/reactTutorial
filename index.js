@@ -3,7 +3,8 @@ const navbar = (
     <h1>website</h1>
     <ul>
       <li>Pricing</li>
-      <li>About</li>
+      <li>sick</li>
+      <li>nasty</li>
       <li>Contact</li>
     </ul>
   </nav>
