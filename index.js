@@ -5,7 +5,7 @@ const navbar = (
       <li>Pricing</li>
       <li>sick</li>
       <li>nasty</li>
-      <li>Contact</li>
+      <li>nerd</li>
     </ul>
   </nav>
 )
